@@ -27,3 +27,19 @@ The Python script generates position and altitude data points that define the ai
 
 ## Contributors
 - Jonathan Suara Patty
+
+### 3D Resources and Data
+
+- **Sketchfab 3D Models**  
+  Used for the rocket object in the demo.  
+  - Source: [Sketchfab](https://sketchfab.com/3d-models/rocket-7ac80b6d4701415a85e492ec24185a21)  
+  - License: Varies per model – all models used comply with the creator’s license.  
+
+- **NASA Datasets**  
+  Used for the plane object in the demo.  
+  - Source: [NASA 3D Resources](https://airbornescience.nasa.gov/content/3D_Models_Gallery)  
+  - License: Public Domain / Open Government License  
+
+  Used for the payload object in the demo.  
+  - Source: [NASA 3D Models Gallery](https://science.nasa.gov/3d-resources/cubesat-1-ru-generic)  
+  - License: Public Domain / Open Government License  
